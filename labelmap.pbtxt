@@ -1,0 +1,35 @@
+item {
+  id: 1
+  name: 'Crack'
+}
+
+item {
+  id: 2
+  name: 'Utility intrusion'
+}
+
+item {
+  id: 3
+  name: 'Debris'
+}
+
+item {
+  id: 4
+  name: 'Joint offset'
+}
+
+item {
+  id: 5
+  name: 'Obstacle'
+}
+
+item {
+  id: 6
+  name: 'Hole'
+}
+
+item {
+  id: 7
+  name: 'Buckling'
+}
+
